@@ -9,3 +9,5 @@ version control
 i am from bangladesh.
 
 Adding newline on github.
+
+Quick recap for everything. 
